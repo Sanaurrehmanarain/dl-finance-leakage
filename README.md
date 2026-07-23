@@ -36,7 +36,7 @@ Our analysis reveals a critical insight for algorithmic trading:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/yourusername/dl-finance-leakage.git](https://github.com/yourusername/dl-finance-leakage.git)
+    git clone [https://github.com/sanaurrehmanarain/dl-finance-leakage.git](https://github.com/sanaurrehmanarain/dl-finance-leakage.git)
     cd dl-finance-leakage
     ```
 
@@ -48,11 +48,11 @@ Our analysis reveals a critical insight for algorithmic trading:
 3.  **Run the Analysis:**
     Open the Jupyter Notebook to replicate the experiments:
     ```bash
-    jupyter notebook "Deep_Learning_Finance_Project.ipynb"
+    jupyter notebook "main.ipynb"
     ```
 
 ## 📂 Repository Structure
-* `Deep_Learning_Finance_Project.ipynb`: The main codebase containing all steps (Data, Models, Backtesting).
+* `main.ipynb`: The main codebase containing all steps (Data, Models, Backtesting).
 * `TASKS.md`: Project roadmap and completion status.
 * `requirements.txt`: Python dependencies.
 * `outputs/`: Folder containing generated plots (Price History, Cumulative Returns, Accuracy Comparisons).
